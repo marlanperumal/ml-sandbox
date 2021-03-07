@@ -1,1 +1,0 @@
-{"description": "This file holds all confguration settings for the current project", "basepath": "/home/marlan/workspace/ml-sandbox/.", "datapath": "/home/marlan/workspace/ml-sandbox/./data", "outputpath": "/home/marlan/workspace/ml-sandbox/./outputs", "modelpath": "/home/marlan/workspace/ml-sandbox/./outputs/models"}
