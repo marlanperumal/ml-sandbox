@@ -1,0 +1,34 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+pytest = "*"
+nbconvert = "*"
+jupytext = "*"
+pre-commit = "*"
+
+[packages]
+numpy = "*"
+scipy = "*"
+pandas = "*"
+scikit-learn = "*"
+ipykernel = "*"
+statsmodels = "*"
+matplotlib = "*"
+seaborn = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
+xgboost = "*"
+pandas-profiling = "*"
+auto-sklearn = "*"
+datasist = "*"
+papermill = "*"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
