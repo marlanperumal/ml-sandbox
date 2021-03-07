@@ -9,6 +9,7 @@ pytest = "*"
 nbconvert = "*"
 jupytext = "*"
 pre-commit = "*"
+nbstripout = "*"
 
 [packages]
 numpy = "*"

@@ -16,6 +16,18 @@ Enable pre-commit hooks
 pipenv run pre-commit install
 ```
 
+Create config file for datasist
+
+```
+pipenv run startproject .
+```
+
+Remove extra readme file (created by datasist)
+
+```
+rm README.txt
+```
+
 ## ML Libraries
 
 - pandas
